@@ -6,6 +6,7 @@ using namespace System;
 
 int main(array<System::String ^> ^args)
 {
+	//hello world
     Console::WriteLine(L"Здравствуй, мир!");
     return 0;
 }
